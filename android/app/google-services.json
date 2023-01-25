@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1034515087245",
+    "project_id": "sharing-todo",
+    "storage_bucket": "sharing-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034515087245:android:2048fdae75d28b016ec7c4",
+        "android_client_info": {
+          "package_name": "com.example.sharing_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034515087245-gdgs8mjbvdo1l1n8o6erjj3l0kgqmtji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOLYPL4amp04whPKJG_EGtW2zhgz6Jz9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034515087245-gdgs8mjbvdo1l1n8o6erjj3l0kgqmtji.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1034515087245-ajonvhf055fa1p1qta1m1bpn7f4bshoc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sharingTodo"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034515087245:android:875c9393ba8390ff6ec7c4",
+        "android_client_info": {
+          "package_name": "com.gmail.oyama.kakeru.sharing_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034515087245-gdgs8mjbvdo1l1n8o6erjj3l0kgqmtji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOLYPL4amp04whPKJG_EGtW2zhgz6Jz9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034515087245-gdgs8mjbvdo1l1n8o6erjj3l0kgqmtji.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1034515087245-ajonvhf055fa1p1qta1m1bpn7f4bshoc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sharingTodo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
